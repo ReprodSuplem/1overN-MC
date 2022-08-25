@@ -1,0 +1,1 @@
+This is a source code for reproducing the experiments described in the paper "Analytical results and discussion using the Monte Carlo method on the effect of extension of expiration deadline and delivery deadline on the amount of loss generated".
